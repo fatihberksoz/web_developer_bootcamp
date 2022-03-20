@@ -1,0 +1,24 @@
+body {
+  background: #fcd04b;
+  font-family: "Lato";
+}
+
+.btn {
+  background-color: #efa424;
+  outline: none;
+  display: block;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: white;
+  padding: 25px 75px;
+  border-radius: 20px;
+  position: relative;
+  border: none;
+  margin: 0px auto;
+  box-shadow: 0px 6px #efa424;
+}
+
+.btn:hover {
+  box-shadow: 0px 4px #efa424;
+  top: 2px;
+}
