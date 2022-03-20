@@ -1,0 +1,9 @@
+body {
+  font-family: sans-serif;
+}
+
+.btn {
+  outline: none;
+  text-transform: uppercase;
+  color: white;
+}
